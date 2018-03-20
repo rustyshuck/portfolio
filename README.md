@@ -30,6 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 ![independent author wireframe](https://raw.githubusercontent.com/rustyshuck/portfolio/master/wireframe.png)
+![independent author wireframe](/wireframe.png)
+![independent author wireframe]<img src="/wireframe.png" alt="wireframe" height="60%" width="60%">
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rustyshuck/rustyshuck.github.io-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
