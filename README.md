@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 2. Portfolio Direct Link
 ![independent author wireframe](/wireframe.png)
 3. IMG Source HTML
-![independent author wireframe HTML]<img src="/wireframe.png" alt="wireframe" height="60%" width="60%">
+![independent author wireframe HTML]<img src="/portfolio/wireframe.png" alt="wireframe" height="60%" width="60%">
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rustyshuck/rustyshuck.github.io-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
